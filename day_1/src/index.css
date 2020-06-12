@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 40px;
+}
+
+.img {
+  margin: 20rem auto 0 auto;
+  text-align: center;
+}
+
+.container {
+  margin: 1rem auto;
+  width: 80%;
+}
+
+a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: #fff;
+}
+
+a.active {
+  color: #c4c4c4;
+}
+
+.btnStyle {
+  float: right;
+  background-color: red;
+  padding: 10px;
+  border: none;
+  color: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  outline: none;
+}
+
+form {
+  display: flex;
+}
+
+input[type="text"] {
+  flex: 10;
+  padding: 10px;
+}
+
+input[type="submit"] {
+  flex: 2;
+}
