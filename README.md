@@ -16,3 +16,15 @@ This folder contains all the apps i built while learning react.
 - Conditional Rendering
 - Lists and Keys
 - Building Simple Forms
+
+- Expense Tracker : Second Project
+
+![second project](img/project_2.png)
+
+### React Fundamental Topics Covered
+
+- useState Hooks
+- useContext Hooks
+- useReducer Hooks
+- context API
+- React Component Architecture
